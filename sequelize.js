@@ -26,6 +26,7 @@ const sequelize = new Sequelize(
   {
     host: config.host,
     dialect: config.dialect,
+    port: 3306,
     operators: false, // Use this instead of operatorsAliases
   }
 );
