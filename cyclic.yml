@@ -1,5 +1,0 @@
-name: my-api
-functions:
-  api:
-    runtime: nodejs16
-    handler: index.handler
