@@ -1,27 +1,26 @@
 {
-    "development": {
-      "username": "root",
-      "password": "root",
-      "database": "orders",
-      "host": "127.0.0.1",
-      "dialect": "mysql",
-      "operatorsAliases": false
-    },
-    "test": {
-      "username": "root",
-      "password": "root",
-      "database": "orders_test",
-      "host": "127.0.0.1",
-      "dialect": "mysql",
-      "operatorsAliases": false
-    },
-    "production": {
-      "username": "root",
-      "password": "root",
-      "database": "orders_production",
-      "host": "127.0.0.1",
-      "dialect": "mysql",
-      "operatorsAliases": false
-    }
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "orders",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operators": false
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "orders_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operators": false
+  },
+  "production": {
+    "username": "uihnjgtnvoqbtrzn",
+    "password": "B8Raxzzj5mNDlnTkZJ8i",
+    "database": "bjjyouxhtjqgyszcu4wq",
+    "host": "bjjyouxhtjqgyszcu4wq-mysql.services.clever-cloud.com",
+    "dialect": "mysql",
+    "operators": false
   }
-  
+}
